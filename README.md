@@ -35,13 +35,13 @@ CarRentalService is an automation tool that lets clients book vehicles from car 
 ![Car Record Creation](./post-car.png)
 
 ### 4. Customer Dashboard
-![Customer Dashboard](./customer-dashboard.png)
+![Customer Dashboard](./customer-dash.png)
 
 ### 5. Customer Bookings
-![Customer Bokings](./customer-dashoard.png)
+![Customer Bokings](./customer-bookings.png)
 
-### 5. Customer Bookings
-![Customer Bokings](./search.png)
+### 5. Global Search
+![Global Search](./search.png)
 
 ---
 
