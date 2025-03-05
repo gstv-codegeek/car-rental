@@ -16,7 +16,7 @@ CarRentalService is an automation tool that lets clients book vehicles from car 
 - Approve/Reject Bookings
 - Posting Available Vehicles
 
-## Customer
+  ## Customer
 - Dashboard Overview
 - Vehicle Search
 - Bookings Vehicles
