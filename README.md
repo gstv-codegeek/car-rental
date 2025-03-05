@@ -4,40 +4,52 @@
 
 ## Description
 
-CarRentalService is a ["task management tool that helps teams collaborate and track progress in real-time"]. 
+CarRentalService is an automation tool that lets clients book vehicles from car dealers and return them at a later date. 
 
 ## Features
 
-- User Registration and Login
-- Dashboard Overview
-- Task Management
-- Real-time Notifications
-- Profile Management
-- Reports & Analytics
+- User Registration and Login - Admin/Clients
 
+  ## Admin 
+- Dashboard Overview
+- Vehicle Search
+- Approve/Reject Bookings
+- Posting Available Vehicles
+
+## Customer
+- Dashboard Overview
+- Vehicle Search
+- Bookings Vehicles
+- Tracking Bookings
 ---
 
 ## Screenshots
 
-### 1. Landing Page
-![Landing Page](./assets/screenshots/landing-page.png)
+### 1. Admin Dashboard
+![Admin Dashboard](./adm-dash.png)
 
-### 2. User Registration
-![Registration Page](./assets/screenshots/registration-page.png)
+### 2. Bookings Approval or Rejection Interface
+![Bookings Approval or Rejection](./admin-bookings.png)
 
-### 3. Dashboard
-![Dashboard](./assets/screenshots/dashboard.png)
+### 3. Car Record Creation
+![Car Record Creation](./post-car.png)
 
-### 4. Task Management
-![Task Management](./assets/screenshots/task-management.png)
+### 4. Customer Dashboard
+![Customer Dashboard](./customer-dashboard.png)
+
+### 5. Customer Bookings
+![Customer Bokings](./customer-dashoard.png)
+
+### 5. Customer Bookings
+![Customer Bokings](./search.png)
 
 ---
 
 ## Tech Stack
 
-- Frontend: React, Tailwind CSS
-- Backend: Node.js, Express
-- Database: MongoDB
+- Frontend: Angular, Ng Zorro
+- Backend: Spring boot
+- Database: MySQL
 - Authentication: JWT
 
 ---
@@ -47,5 +59,5 @@ CarRentalService is a ["task management tool that helps teams collaborate and tr
 Clone the project:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/gstv-codegeek/car-rental.git
+cd car-rental
