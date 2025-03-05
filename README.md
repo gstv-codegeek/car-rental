@@ -60,4 +60,5 @@ Clone the project:
 
 ```bash
 git clone https://github.com/gstv-codegeek/car-rental.git
-cd car-rental
+extract the zip file
+find the pom file in spring boot directory and open using intelij idea
